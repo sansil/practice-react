@@ -1,8 +1,14 @@
+
+
 function About () {
 
   return (
     <div>
-      Hi i'm about
+      <div>
+        {/* <AddTodo />
+        <VisibleTodoList />
+        <Footer /> */}
+      </div>
     </div>
   )
 }
